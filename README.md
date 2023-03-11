@@ -1,5 +1,5 @@
 # Summary
-xk6 extension for listing files and directories in FS
+xk6 extension for listing files and directories
 
 # Install
 
